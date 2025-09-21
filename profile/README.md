@@ -7,7 +7,8 @@ Here you will find the resources associated to the Software Engineering and Comp
 ## 📂 Resources 📂
 
 | Repository | Description | Topics Covered |
-([http://example.com/](https://github.com/BaulkhamHillsHS/Arduino) "Arduino")
+
+[Arduino]([http://example.com/](https://github.com/BaulkhamHillsHS/Arduino) "Arduino")
 
 ### Computing Technology
 | Arduino |
