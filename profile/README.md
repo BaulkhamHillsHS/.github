@@ -15,6 +15,16 @@ Here you will find the resources associated to the Software Engineering and Comp
 | Python |
 
 ### Software Engineering
+#### Year 11
+Programming Fundamentals
+Object-Oriented Programming 
+Mechatronics
+
+#### Year 12 
+Programming for the Web
+Secure Software Architecture
+Software Automation
+Software Engineering Project
 
 ### Other Resources
 
