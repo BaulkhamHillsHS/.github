@@ -23,7 +23,7 @@ Here you will find the resources associated to the Software Engineering and Comp
 ### Year 12 
 #### Programming for the Web
 [Flask PWA Template](https://github.com/BaulkhamHillsHS/PftW_Template): Starter Python Flask Template to be done in class. A guided development task for students to build their first PWA to the W3C standard using Python Flask and SQLite3 for the backend.
-[Flask PWA Extension Template)[https://github.com/BaulkhamHillsHS/Flask-PWA-API-Extension_Task_Template]: Extension work based on the the prior Flask PWA work.
+[Flask PWA Extension Template](https://github.com/BaulkhamHillsHS/Flask-PWA-API-Extension_Task_Template): Extension work based on the the prior Flask PWA work.
 
 #### Secure Software Architecture
 
