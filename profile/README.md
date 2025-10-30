@@ -4,17 +4,7 @@ Here you will find the resources associated to the Software Engineering and Comp
 
 ---
 
-# 📂 Resources 📂
-
-[Arduino](https://github.com/BaulkhamHillsHS/Arduino)
-
-# Computing Technology
-#### Mechatronics
-#### Python
-#### Web Apps
-
 # Software Engineering
-
 
 ## Year 12 
 ### Programming for the Web
@@ -36,6 +26,16 @@ Here you will find the resources associated to the Software Engineering and Comp
 ### Programming Fundamentals
 ### Object-Oriented Programming 
 ### Mechatronics
+
+
+# Computing Technology
+#### Mechatronics
+#### Python
+#### Web Apps
+
+# 📂 Resources 📂
+
+[Arduino](https://github.com/BaulkhamHillsHS/Arduino)
 
 ---
 
