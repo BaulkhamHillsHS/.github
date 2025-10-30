@@ -31,6 +31,8 @@ Here you will find the resources associated to the Software Engineering and Comp
 ### Software Engineering Project
 
 ## Year 11
+### Year 10 - Preparation for Software Engineering
+- [Preparation for Software Engineering](https://github.com/BaulkhamHillsHS/Software-Engineering-Prep)
 ### Programming Fundamentals
 ### Object-Oriented Programming 
 ### Mechatronics
