@@ -28,10 +28,13 @@ Here you will find the resources associated to the Software Engineering and Comp
 ### Mechatronics
 
 
-# Computing Technology
+# Computing Technology (Year 9-10 Elective)
 #### Mechatronics
 #### Python
+- Text-based python game
+- [Pygame](https://www.pygame.org/docs/) Project
 #### Web Apps
+- [Anvil](https://anvil.works/)
 
 # 📂 Resources 📂
 
