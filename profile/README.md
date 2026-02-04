@@ -21,7 +21,7 @@ Here you will find the resources associated to the Software Engineering and Comp
 ### Software Engineering Project
 
 ## Year 11
-- [Unit 1 - Programming Fundamentals](https://github.com/BaulkhamHillsHS/Prelim-SE-Template): All in one repository for the preliminary course.
+- [Preliminary Software Engineering](https://github.com/BaulkhamHillsHS/Prelim-SE-Template): All in one repository for the preliminary course.
 
 ### Year 10 - Preparation for Software Engineering
 - [Preparation for Software Engineering](https://github.com/BaulkhamHillsHS/Software-Engineering-Prep)
