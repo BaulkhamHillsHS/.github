@@ -10,6 +10,7 @@ Here you will find the resources associated to the Software Engineering and Comp
 ### Programming for the Web
 - [Flask PWA Template](https://github.com/BaulkhamHillsHS/PftW_Template): Starter Python Flask Template to be done in class. A guided development task for students to build their first PWA to the W3C standard using Python Flask and SQLite3 for the backend.
 - [Flask PWA Extension Template](https://github.com/BaulkhamHillsHS/Flask-PWA-API-Extension_Task_Template): Extension work based on the the prior Flask PWA work.
+- [Flask PWA - Complete Source](https://github.com/BaulkhamHillsHS/PftW_Source): The complete working PWA
 
 ### Secure Software Architecture
 - [The Unsecure PWA Template](https://github.com/BaulkhamHillsHS/The_Unsecure_PWA_Template): An unsecure by-design PWA that students can analyse with a suite of tools and support to build their understanding of web-based secure software architecture.
