@@ -34,7 +34,7 @@ Here you will find the resources associated to the Software Engineering and Comp
 # Computing Technology
 #### Mechatronics
 #### Python
-- [Python - Text Based Game](https://github.com/BaulkhamHillsHS/Year-9-Task-1-Template)
+- [Python - Text Based Game]()
 #### Web Apps
 
 # 📂 Resources 📂
