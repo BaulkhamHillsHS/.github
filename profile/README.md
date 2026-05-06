@@ -18,6 +18,7 @@ Here you will find the resources associated to the Software Engineering and Comp
 - [Secure Architecture Sandbox Testing Environment](https://github.com/TempeHS/Secure_Architecture_Sandbox_Testing_Environment) - Hosted by TempeHS A Docker-based sandbox for testing Python Flask apps. Pre-loaded with SAST, DAST, and Penetration testing tools that produce education-specific reports. Preloaded with the The Unsecure PWA and exercises for students on secure architecture testing methodologies.
 
 ### Software Automation
+- [Linear Regression](https://github.com/BaulkhamHillsHS/NESA_Course_Specifications_Linear_Regression): Linear Regression based on the NESA course specifications. 
 
 ### Software Engineering Project
 
