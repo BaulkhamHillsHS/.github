@@ -20,7 +20,7 @@ Here you will find the resources associated to the Software Engineering and Comp
 ### Software Automation
 - [Linear Regression](https://github.com/BaulkhamHillsHS/NESA_Course_Specifications_Linear_Regression): Linear Regression based on the NESA course specifications.
 - [Machine Learning](https://github.com/BaulkhamHillsHS/Software-Automation-Machine-Learning): Machine Learning concepts based on NESA course specification.
-- [MLOps](https://github.com/BaulkhamHillsHS/Software-Automation-MLOps): Practical Application of NESA Software Engineering MLOps 
+- [MLOps-2027](https://github.com/BaulkhamHillsHS/MLOps-2027): Practical Application of NESA Software Engineering MLOps 
 
 ### Software Engineering Project
 
